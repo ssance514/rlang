@@ -1,0 +1,10 @@
+*.[ao]
+
+### do track lib.a
+!lib.a
+
+*~
+
+doc/**/*.pdf
+
+add second line here
