@@ -1,0 +1,4 @@
+"git will not track you as well" 
+
+
+git reset HEAD misc.text for unstage
